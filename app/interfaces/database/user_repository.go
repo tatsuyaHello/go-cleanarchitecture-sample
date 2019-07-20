@@ -1,6 +1,6 @@
 package database
 
-import "app/domain"
+import "github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/src/app/domain"
 
 type UserRepository struct {
 	SqlHandler

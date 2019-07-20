@@ -1,10 +1,11 @@
 package controllers
 
 import (
-	"app/domain"
-	"app/interfaces/database"
-	"app/usecase"
 	"strconv"
+
+	"github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/src/app/domain"
+	"github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/src/app/interfaces/database"
+	"github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/src/app/usecase"
 )
 
 type UserController struct {

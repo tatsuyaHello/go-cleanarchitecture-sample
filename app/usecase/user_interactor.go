@@ -1,6 +1,6 @@
 package usecase
 
-import "app/domain"
+import "/usr/local/Cellar/go/1.12.4/libexec/src/app/domain"
 
 type UserInteractor struct {
 	UserRepository UserRepository

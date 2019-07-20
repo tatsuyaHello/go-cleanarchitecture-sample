@@ -1,6 +1,6 @@
 package usecase
 
-import "/usr/local/Cellar/go/1.12.4/libexec/src/app/domain"
+import "github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/app/domain"
 
 type UserInteractor struct {
 	UserRepository UserRepository

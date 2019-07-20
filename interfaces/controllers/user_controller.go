@@ -3,9 +3,9 @@ package controllers
 import (
 	"strconv"
 
-	"github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/src/app/domain"
-	"github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/src/app/interfaces/database"
-	"github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/src/app/usecase"
+	"github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/app/domain"
+	"github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/app/interfaces/database"
+	"github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/app/usecase"
 )
 
 type UserController struct {

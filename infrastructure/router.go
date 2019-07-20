@@ -3,7 +3,7 @@ package infrastructure
 import (
 	//gin "gopkg.in/gin-gonic/gin.v1"
 	"github.com/gin-gonic/gin"
-	"github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/src/app/interfaces/controllers"
+	"github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/app/interfaces/controllers"
 )
 
 var Router *gin.Engine

@@ -5,7 +5,7 @@ import (
 
 	_ "github.com/go-sql-driver/mysql"
 
-	"github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/src/app/interfaces/database"
+	"github.com/tatsuyaHello/go-cleanarchitecture-sample/tree/master/app/interfaces/database"
 )
 
 type SqlHandler struct {
